@@ -1,4 +1,4 @@
 funciton ($name)
 {
-    // 显示一个视图
+     $this->display();
 }
